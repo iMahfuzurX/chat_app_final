@@ -1,3 +1,3 @@
 # chat_app_final
 
-![alt text](https://github.com/iMahfuzurX/messaging_app/raw/master/screenshots/landing_page.png?raw=true)
+<img src="https://github.com/iMahfuzurX/messaging_app/raw/master/screenshots/landing_page.png" width=48>
